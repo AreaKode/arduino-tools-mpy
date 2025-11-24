@@ -63,7 +63,7 @@
     [
       "arduino_tools/templates/boot_plain.tpl",
       "github:arduino/arduino-tools-mpy/arduino_tools/templates/boot_plain.tpl"
-    ],
+    ]
   ],
   "deps": [
     [
